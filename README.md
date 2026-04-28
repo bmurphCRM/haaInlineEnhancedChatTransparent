@@ -117,3 +117,10 @@ rgba(255, 255, 255, 0.9)
 ## Related
 
 - [Help Agent Accelerator (source)](https://github.com/salesforce/help-agent-accelerator) — the original component this is based on
+
+---
+
+**Documentation Version**: 1.0  
+**Last Updated**: April 20, 2026  
+**Component Version**: 1.0  
+**Author**: Brian Murphy, b.murphy@salesforce.com
