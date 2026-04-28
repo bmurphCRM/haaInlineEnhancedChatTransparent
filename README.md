@@ -2,12 +2,12 @@
 
 A Lightning Web Component (LWC) that embeds an Agentforce Enhanced Chat window inline on an Experience Cloud page, with full control over background transparency and text styling — similar to the help experience seen on help.salesforce.com.
 
-This component is a variant of the [Help Agent Accelerator](https://github.com/salesforce/help-agent-accelerator) `haaInlineEnhancedChat` component, extended with declarative App Builder properties for transparency and color customization.
+This component is a variant of the [Help Agent Accelerator](https://github.com/salesforce/help-agent-accelerator) `haaInlineEnhancedChat` component, extended with declarative App Builder properties for transparency and color customization.<br><br>
 
-<img width="1510" height="905" alt="image" src="https://github.com/user-attachments/assets/2d785ec0-87cd-4ed0-b9bb-86703a2743f3" />
+<img width="1510" height="905" alt="image" src="https://github.com/user-attachments/assets/2d785ec0-87cd-4ed0-b9bb-86703a2743f3" /><br><br>
 Additional Component Settings Added
 
-<img width="1505" height="826" alt="image" src="https://github.com/user-attachments/assets/add6eec0-09f3-4224-a828-2510480bc60b" />
+<img width="1505" height="826" alt="image" src="https://github.com/user-attachments/assets/add6eec0-09f3-4224-a828-2510480bc60b" /><br><br>
 Runtime Example: Create a flex page section make 300px tall.  Add a background image and then since the component has a transparent background looks better and more similar to help.salesforce.com experience.
 
 ---
